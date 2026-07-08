@@ -1,0 +1,6 @@
+{
+  "entity.fleshterror.flesh_monster": "Flesh Horror",
+  "block.fleshterror.flesh_heart": "Flesh Heart",
+  "item.fleshterror.flesh_monster_spawn_egg": "Flesh Horror Spawn Egg",
+  "itemGroup.fleshterror": "Flesh Terror"
+}

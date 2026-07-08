@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FRF",
+    "RNR",
+    "FRF"
+  ],
+  "key": {
+    "F": { "item": "minecraft:rotten_flesh" },
+    "R": { "item": "minecraft:redstone" },
+    "N": { "item": "minecraft:nether_wart_block" }
+  },
+  "result": {
+    "item": "fleshterror:flesh_heart",
+    "count": 1
+  }
+}
